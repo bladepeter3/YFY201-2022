@@ -1,9 +1,9 @@
 # YFY201-2022
 ΥΦΥ201 Υπολογιστική κβαντική φυσική και εφαρμογές - Listings
 
-Τα αρχεία που περιέχονται είναι:<br />
+Τα αρχεία που περιέχονται είναι:<br /><br />
 Listings Bantis Peter.pdf<br />
-Listings Bantis Peter.pptx<br /><br />
+Listings Bantis Peter.pptx<br />
 6.6.py<br />
 6.19.py<br />
 6.24.py<br /><br />
